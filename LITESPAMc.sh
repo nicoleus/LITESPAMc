@@ -1,10 +1,5 @@
 #!/system/xbin/bash
 clear
-git clone https://github.com/nicoleus/smsid-java.git
-cd ./smsid-java
-chmod +x ./install
-apt install ./smsid_1.1_all.deb
-clear
 
 toilet -f slant --gay "LiteSpam"
 sleep 1
