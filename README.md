@@ -8,6 +8,7 @@ $ pkg update upgrade
 $ pkg install git python2 toilet figlet php
 $ git clone https://github.com/nicoleus/LITESPAMc
 $ cd LITESPAMc
+$ sh LITESPAMc.sh
 ```
 # PERINGATAN
 KAMI HANYA MENYEDIAKAN TOOLS UNTUK TUJUAN KEBAIKAN BUKAN DISALAHKAN GUNAKAN UNTUK MENJAHILI SESEORANG
