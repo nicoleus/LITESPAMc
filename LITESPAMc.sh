@@ -3,7 +3,9 @@ clear
 
 toilet -f slant --gay "LiteSpam"
 sleep 1
-echo "\033[33;1m Macam-macam tool untuk spam"
+echo "\033[33;1m  NICOLEUS F SITORUS"
+sleep 1
+echo "\033[33;1m  HORAS Macam-macam tool untuk spam"
 sleep 1
 echo "\033[36;1m★""\033[34;1mHORAS Indonesia Security Lite""\033[36;1m★"
 sleep 1
